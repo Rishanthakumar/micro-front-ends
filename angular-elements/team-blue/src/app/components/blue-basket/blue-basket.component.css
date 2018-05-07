@@ -1,0 +1,14 @@
+.empty,
+.filled {
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+}
+
+.empty {
+    background-color: gray;
+  }
+  
+.filled {
+    background-color: seagreen;
+  }
